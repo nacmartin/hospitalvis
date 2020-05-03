@@ -1,6 +1,10 @@
 # hospitalvis
 Hospital state visualization
 
+![Screenshot](https://raw.githubusercontent.com/nacmartin/hospitalvis/master/hospivis.png)
+
+https://nacmartin.github.io/hospitalvis/
+
 ## Installation
 
 ````
