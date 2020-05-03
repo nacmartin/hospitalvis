@@ -1,0 +1,25 @@
+{
+  "name": "hospiviz",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/react": "^16.9.34",
+    "@types/react-dom": "^16.9.7",
+    "@types/react-leaflet": "^2.5.1",
+    "parcel": "^1.12.4",
+    "typescript": "^3.8.3"
+  },
+  "dependencies": {
+    "leaflet": "^1.6.0",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
+    "react-leaflet": "^2.6.3",
+    "tslib": "^1.11.1"
+  },
+  "scripts": {
+    "dev": "parcel index.html",
+    "watch": "parcel watch index.html",
+    "build": "parcel build index.html"
+  }
+}
